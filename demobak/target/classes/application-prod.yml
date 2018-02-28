@@ -1,0 +1,6 @@
+server:
+  port: 8085
+girl:
+   cupSize: B
+   age: 19
+content: "cupSize : F"

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demobak.DemobakApplicationTests" time="0.03" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Pro\Java\jdk1.8.0_151\jre\bin"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Projects\Java\demobak"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Pro\Java\jdk1.8.0_151\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\jijg\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Pro\apache-maven-3.2.5\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Pro\Java\jdk1.8.0_151\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;D:\Pro\python\;D:\Pro\python\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Pro\MySQL\MySQL5.5\bin;C:\Program Files\TortoiseHg\;D:\Pro\Python\;D:\Pro\Python\Tools\Scripts\;D:\Pro\php\7.1.6;C:\ProgramData\ComposerSetup\bin;D:\Pro\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Pro\nodejs\;D:\HashiCorp\Vagrant\bin;D:\Pro\python;C:\Users\jijg\AppData\Roaming\Composer\vendor\bin;C:\Users\jijg\AppData\Local\Microsoft\WindowsApps;C:\Users\jijg\AppData\Local\Programs\Fiddler;C:\Users\jijg\AppData\Roaming\npm;C:\Users\jijg\AppData\Local\GitHubDesktop\bin;C:\adb;D:\Pro\python\Python36;D:\Pro\python\Python36\Scripts;D:\Pro\Java\jdk1.8.0_151\bin;D:\Pro\Java\jdk1.8.0_151\jre\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Pro\apache-tomcat-9.0.4\lib;D:\Pro\apache-tomcat-9.0.4\bin;D:\Pro\apache-maven-3.2.5\bin;D:\Pro\Go\bin;D:\Pro\Python\Python36\Scripts\;D:\Pro\Python\Python36\;D:\Pro\python;D:\Pro\python\Scripts;C:\Users\jijg\AppData\Roaming\Composer\vendor\bin;C:\Users\jijg\AppData\Local\Microsoft\WindowsApps;C:\Users\jijg\AppData\Local\Programs\Fiddler;C:\Users\jijg\AppData\Roaming\npm;C:\Users\jijg\AppData\Local\GitHubDesktop\bin;D:\Pro\Java\jdk1.8.0_151\bin;D:\Pro\Java\jdk1.8.0_151\jre\bin;;C:\Users\jijg\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\jijg"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="jijg"/>
+    <property name="java.class.path" value="D:\Pro\apache-maven-3.2.5\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\Pro\Java\jdk1.8.0_151\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_151"/>
+    <property name="java.ext.dirs" value="D:\Pro\Java\jdk1.8.0_151\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Pro\Java\jdk1.8.0_151\jre\lib\resources.jar;D:\Pro\Java\jdk1.8.0_151\jre\lib\rt.jar;D:\Pro\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;D:\Pro\Java\jdk1.8.0_151\jre\lib\jsse.jar;D:\Pro\Java\jdk1.8.0_151\jre\lib\jce.jar;D:\Pro\Java\jdk1.8.0_151\jre\lib\charsets.jar;D:\Pro\Java\jdk1.8.0_151\jre\lib\jfr.jar;D:\Pro\Java\jdk1.8.0_151\jre\classes"/>
+    <property name="sun.stderr.encoding" value="ms936"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Pro\apache-maven-3.2.5"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="ms936"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="contextLoads" classname="com.example.demobak.DemobakApplicationTests" time="0.03"/>
+</testsuite>
